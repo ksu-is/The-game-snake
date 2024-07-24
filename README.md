@@ -8,7 +8,7 @@ https://github.com/LinkedInLearning/snake-game-python-2896343.git
 Added a .py file that will hold my code
 
 # Work on code
-Started on my code
+Started on my code got pygame installed and got colors and display all created
 
 # Add powerpoint to repository
 I created and added my powerpoint to my repository
@@ -17,4 +17,4 @@ I created and added my powerpoint to my repository
 Found a youtube video that helped with creating my code https://youtu.be/9bBgyOkoBQ0?si=Y_xWeYODcdEKTBFP
 as well as a video that helped me with downloading Pygame https://youtu.be/6xd9r6aflWg?si=B9OogHvr1wBDE_4x
 # Finish code
-Worked on getting code complted for final presentaion. Was able to get it completed.
+Worked on getting code complted for final presentaion created the main game loops and completed my code.
